@@ -69,12 +69,12 @@
      "BannerApplovinId":  "b0d7ec5b7777a4ec",
      "MrcApplovinId":  "0",
      "VideoReword": "0",
-     "NativeApplovin": "0",
+     "NativeApplovin": "a6a55b362a0cadfb",
     
      "Bidding_Applovin_Inter": "1",
-     "Bidding_Applovin_Banner": "1",
+     "Bidding_Applovin_Banner": "0",
      "Bidding_Applovin_Mrc": "0",
-     "Bidding_Applovin_Native": "0",
+     "Bidding_Applovin_Native": "1",
      "Bidding_Applovin_VideoReword": "0",
   
   

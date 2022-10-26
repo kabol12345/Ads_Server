@@ -59,17 +59,17 @@
     
     "Unity": "0",
     
-     "appdeal": "1",
+     "appdeal": "0",
     
      "mopub": "0",
   
   
    
-     "InterApplovinId":  "a832104eb721bbe3",
-     "BannerApplovinId":  "b6a563740264bbca",
+     "InterApplovinId":  "dc999cfbe84caf61",
+     "BannerApplovinId":  "590808b5e7866518",
      "MrcApplovinId":  "0",
      "VideoReword": "0",
-     "NativeApplovin": "89bd07f7f54739de",
+     "NativeApplovin": "2874ed090cb99d19",
     
      "Bidding_Applovin_Inter": "1",
      "Bidding_Applovin_Banner": "1",
